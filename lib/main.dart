@@ -7,7 +7,7 @@ void main() {
 class Birth_Day extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Color(0XFFD2BCD5),
